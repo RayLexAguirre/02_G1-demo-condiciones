@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Es mayor o menor",
+      "setup": "npm install",
+      "run": "npm run test esMayorOMenor.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Costo total",
+      "setup": "",
+      "run": "npm run test costoTotal.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Obtener mayor",
+      "setup": "",
+      "run": "npm run test obtenerMayor.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Es positivo",
+      "setup": "",
+      "run": "npm run test esPositivo.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Que toca",
+      "setup": "",
+      "run": "npm run test queToca.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Obtener mayor de 3",
+      "setup": "",
+      "run": "npm run test obtenerMayor3.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Puede inscribirse",
+      "setup": "",
+      "run": "npm run test puedeInscribirse.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Descripción",
+      "setup": "",
+      "run": "npm run test descripcion.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
